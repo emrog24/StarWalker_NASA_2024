@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/emanu/OneDrive/Documentos/Unreal Projects/MyProject/Content/Graphics/M_ExoPlanet.uasset",
+				"C:/Users/emanu/OneDrive/Documentos/Unreal Projects/MyProject/Content/Graphics/M_Stars.uasset",
+				"C:/Users/emanu/OneDrive/Documentos/Unreal Projects/MyProject/Content/Stars.uasset",
+				"C:/Users/emanu/OneDrive/Documentos/Unreal Projects/MyProject/Content/ExoSkyV2.umap",
+				"C:/Users/emanu/OneDrive/Documentos/Unreal Projects/MyProject/Content/Graphics/M_Example.uasset",
+				"C:/Users/emanu/OneDrive/Documentos/Unreal Projects/MyProject/Content/Graphics/M_Example1.uasset"
+			]
+		}
+	]
+}
